@@ -21,15 +21,15 @@ figure.circle img {
 
 
 .oval-btn {
-  padding: 15px 40px;        /* wider than tall → oval shape */
-  border-radius: 50px;       /* large radius creates the oval */
+  padding: 15px 40px;        /* wider than tall → oval shape MAKE SMALLER*/
+  border-radius: 50px;       /* large radius creates the oval SHRINK*/
   border: none;
   background-color: #0a8a0e8a;
-  color: rgba(43, 136, 15, 0.993);
+  color: rgba(43, 136, 15, 0.993); /*USE CONSISTENT HEX COLORS*/
   font-size: 18px;
   cursor: pointer;
-  box-shadow: 0 4px 6px rgba(89, 228, 71, 0.61);
-  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 6px rgba(89, 228, 71, 0.61); /*USE CONSISTENT HEX COLORS*/
+  transition: background-color 0.3s ease;  /*OTHER STYLES, maybe a [peak] of the location of the button when user hovers*/
   padding: 15px 40px;
   margin: .5%;
 }
