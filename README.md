@@ -1,16 +1,18 @@
 # GitHub Practice Project. 
 
 
-### Practice with basic Git / Github functionality.
+### Practice with basic Git / GitHub functionality.
 
 
-#### Basics function
+#### Basic functions
 - New Project 
 - new file 
 - staging a file to review changes. 
 - commits w/ messages 
 - create a new branch 
-- merge new branch back to the old. 
-- connect local repo to github.
+- merge the new branch back to the old. 
+- connect local repo to GitHub.
+
+#### Git Pages -- Practice using GitHub while practicing GitHub. 
 
 
